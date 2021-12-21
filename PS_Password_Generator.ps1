@@ -4,7 +4,7 @@
 # AUTOR: luciano@citrait.com.br
 # DATA: 20/03/2021
 # Homologado para executar no Windows 10 ou Server 2012R2+
-# EXAMPLO DE USO: Powershell -ExecutionPolicy ByPass -File C:\scripts\Search_Observable_Security_Events.ps1
+# EXAMPLO DE USO: Powershell -ExecutionPolicy ByPass -File C:\scripts\PS_Password_Generator.ps1
 
 
 #>
