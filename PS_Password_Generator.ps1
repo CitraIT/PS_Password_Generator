@@ -1,6 +1,6 @@
 <#
 # CITRA IT - EXCELÊNCIA EM TI
-# SCRIPT PARA EXIBIR EVENTOS NOTÁVEIS NAS ÚLTIMAS 24 HORAS.
+# SCRIPT PARA GERAR SENHA SEGURA.
 # AUTOR: luciano@citrait.com.br
 # DATA: 20/03/2021
 # Homologado para executar no Windows 10 ou Server 2012R2+
