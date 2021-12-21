@@ -29,7 +29,7 @@ Function GeneratePassword
 
 
 #
-# Detecting where (path) this script is been invocated
+# Detecting where (path) this script is being invocated
 #
 $ME_PATH = Split-Path -Parent $MyInvocation.MyCommand.Path
 
